@@ -1,0 +1,12 @@
+<div class="user-detail-container">
+  <mat-card class="user-detail-card">
+    <img mat-card-avatar [src]="user.avatar" alt="User Avatar">
+    <br>
+    <mat-card-title class="user-detail-title">{{ user.first_name }} {{ user.last_name }}</mat-card-title>
+    <mat-card-content class="user-detail-content">
+      <!-- <p>ID: {{ user.id }}</p> -->
+      <p>Email: {{ user.email }}</p>
+    </mat-card-content>
+  </mat-card>
+  <button class="back-button" (click)="goBack()">Back</button>
+</div>
