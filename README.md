@@ -1,6 +1,6 @@
 # Maids Task
 
-![Maids User Dashboard]([https://via.placeholder.com/800x400](https://maids.cc/assets/images/logos/blue/Get-a-full-time-maid-or-a-maid-visa.svg))
+![Maids User Dashboard](https://media.licdn.com/dms/image/D4D0BAQHKeISUPckHSQ/company-logo_200_200/0/1686233842354/maids_cc_logo?e=2147483647&v=beta&t=-rkWgFVLSA5i7g-oWDyhaZrdHfLFcTC4IB_9CLG76_Q)
 
 ## Table of Contents
 - [Introduction](#introduction)
