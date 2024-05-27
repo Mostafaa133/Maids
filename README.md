@@ -1,12 +1,6 @@
 # Maids Task
- 
- It looks like the file link isn't working as expected. I'll provide the content here, and you can copy it directly into your own document.
 
----
-
-# Maids
-
-![Maids User Dashboard](https://via.placeholder.com/800x400)
+![Maids User Dashboard]([https://via.placeholder.com/800x400](https://maids.cc/assets/images/logos/blue/Get-a-full-time-maid-or-a-maid-visa.svg))
 
 ## Table of Contents
 - [Introduction](#introduction)
