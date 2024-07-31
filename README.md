@@ -70,11 +70,3 @@ Use the search bar in the header to search for users by ID. If the user exists, 
 ## Caching and Loading
 - **Caching**: Implemented to avoid redundant HTTP requests, improving performance.
 - **Loading Bar**: Indicates pending network requests, providing visual feedback to users during data retrieval.
-
-## Contributing
-We welcome contributions! Please follow these steps to contribute:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Make your changes and commit them (`git commit -m 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a Pull Request
